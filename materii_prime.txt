@@ -1,0 +1,13 @@
+Zahar 25 Comert 50
+Faina 25 Ferma 100
+Oua 150 Ferma 25
+Ulei 23 Comert 100
+Carne 12 Ferma 15
+Lapte 10 Ferma 20
+Legume 35 Ferma 10
+Paste 10 Comert 80
+Sos 15 Comert 15
+CarneHamburger 12 Comert 55
+Paine 12 Ferma 70
+Rosii 12 Ferma 15
+
